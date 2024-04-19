@@ -15,3 +15,6 @@ Para usar essa bomba é simples. Baixe e cole a pasta "rbr-painel" no htdocs do 
 Depois, abra o phpmyadmin (ou qualquer outra plataforma pra mexer em banco MySQL) e crie um banco "radiobr", e importe o "rbr-painel.sql".
 
 O usuário teste se chama "UsuarioImpossivelTeste", e sua senha é "senha123".
+
+# Demonstração
+[![Demonstração de como o painel funciona](https://img.youtube.com/vi/JLnQJiCV7eE/0.jpg)](https://www.youtube.com/watch?v=JLnQJiCV7eE)
