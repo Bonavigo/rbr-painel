@@ -5,9 +5,9 @@ Claro que era horrível! Eu mal sabia mexer em PHP. Esse aqui continua sendo rui
 
 Lembro vagamente de programar a versão anterior, e sofrer até pra fazer o sistema de login funcionar.
 
-Se quiser testar para ver tamanha ruindade, só usar o .sql que eu censurei as senhas (que eram encriptadas, mas vai que, né?) para gerar as tabelas.
+Claro, se for usar isso aqui, revise tudo direitinho. Especialmente, delete a tabela que registra as tentativas de login, porque simplesmente é a coisa mais esquizofrênica do planeta. Imagine querer guardar qual a senha que a pessoa tentou inserir, sem criptografia.
 
-Claro, se for usar isso aqui, revise tudo direitinho. E claro, não saia por aí vendendo, como se fosse algo teu.
+E claro, não saia por aí vendendo, como se fosse algo teu.
 
 # Como usar essa bomba
 Para usar essa bomba é simples. Baixe e cole a pasta "rbr-painel" no htdocs do XAMPP (ou qualquer outro que esteja usando).
